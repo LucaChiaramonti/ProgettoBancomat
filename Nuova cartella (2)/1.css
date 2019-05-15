@@ -1,0 +1,51 @@
+<style type="text/css">
+html, body {height:100%; }
+body { margin:0; font-family: sans-serif }
+
+#container{min-height:100%;  margin: 0 auto; width:100%;}
+h2 {
+  display: block;
+  font-size: 1em;
+  margin-top: 0.2em;
+  margin-bottom: 0.1em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  font-weight: bold;
+	
+ 
+}
+
+hr {
+  border: 3px solid black;
+  border-radius: 0px;
+} 
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #555;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #555;
+  color: red;
+}
+
+
+
